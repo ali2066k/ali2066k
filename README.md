@@ -1,5 +1,7 @@
 # 💫 About Me:
-Hello! I’m a Ph.D. candidate in Artificial Intelligence and Computer Vision, with a focus on medical imaging. I hold an M.S. in Data Science and AI and a B.S. in Software Engineering. My research interests include deep learning, domain adaptation, loss function regularization, few-shot learning, and 3D model analysis.<br>Currently, I’m investigating domain adaptation, novel bifurcation detection methods, and topology-preserving loss functions to improve the analysis of tubular structures in medical images.
+Hello! I’m Ali, 
+
+I am a Ph.D. candidate in Artificial Intelligence and Computer Vision, with a focus on medical imaging. I hold an M.S. in Data Science and AI and a B.S. in Software Engineering. My research interests include deep learning, domain adaptation, loss function regularization, few-shot learning, and 3D model analysis.<br>Currently, I’m investigating domain adaptation, novel bifurcation detection methods, and topology-preserving loss functions to improve the analysis of tubular structures in medical images.
 
 
 ## 🌐 Socials:
