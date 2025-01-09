@@ -6,6 +6,7 @@ I am a Ph.D. candidate in Artificial Intelligence and Computer Vision, with a fo
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ali-keshavarzi/) 
+[![Scholar](https://camo.githubusercontent.com/67ac6b2d128cdf2429d1e8edfd8dfa482cf3538eeef5f2a268353cc0153321ec/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f475f5363686f6c61722d3432383546343f7374796c653d666c61742d737175617265266c6f676f3d676f6f676c657363686f6c6172266c6f676f436f6c6f723d7768697465)](https://scholar.google.com/citations?user=GBaZhSQAAAAJ&hl=en)
 
 🛠️ Languages:
 <p align="left">
